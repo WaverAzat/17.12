@@ -1,0 +1,15 @@
+/Users/azatsaifullin/Projects/17.12/tm3/bin/Debug/net6.0/tm3
+/Users/azatsaifullin/Projects/17.12/tm3/bin/Debug/net6.0/tm3.deps.json
+/Users/azatsaifullin/Projects/17.12/tm3/bin/Debug/net6.0/tm3.runtimeconfig.json
+/Users/azatsaifullin/Projects/17.12/tm3/bin/Debug/net6.0/tm3.dll
+/Users/azatsaifullin/Projects/17.12/tm3/bin/Debug/net6.0/tm3.pdb
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/Tum13.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/Tum13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/Tum13.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/Tum13.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/Tum13.csproj.CoreCompileInputs.cache
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/tm3.dll
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/refint/tm3.dll
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/tm3.pdb
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/Tum13.genruntimeconfig.cache
+/Users/azatsaifullin/Projects/17.12/tm3/obj/Debug/net6.0/ref/tm3.dll

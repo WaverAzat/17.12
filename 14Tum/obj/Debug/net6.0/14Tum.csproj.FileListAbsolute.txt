@@ -1,0 +1,15 @@
+/Users/azatsaifullin/Projects/17.12/14Tum/bin/Debug/net6.0/14Tum
+/Users/azatsaifullin/Projects/17.12/14Tum/bin/Debug/net6.0/14Tum.deps.json
+/Users/azatsaifullin/Projects/17.12/14Tum/bin/Debug/net6.0/14Tum.runtimeconfig.json
+/Users/azatsaifullin/Projects/17.12/14Tum/bin/Debug/net6.0/14Tum.dll
+/Users/azatsaifullin/Projects/17.12/14Tum/bin/Debug/net6.0/14Tum.pdb
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/14Tum.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/14Tum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/14Tum.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/14Tum.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/14Tum.csproj.CoreCompileInputs.cache
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/14Tum.dll
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/refint/14Tum.dll
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/14Tum.pdb
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/14Tum.genruntimeconfig.cache
+/Users/azatsaifullin/Projects/17.12/14Tum/obj/Debug/net6.0/ref/14Tum.dll
